@@ -5,7 +5,7 @@ python3 app image for spider
 ## requirements
 
 - Scrapy==1.5.0
-- Crwy==1.5.0
+- Crwy==1.5.1
 - DBUtils==1.3
 - fonttools==3.30.0
 - Pillow==5.3.0
