@@ -16,6 +16,6 @@ python3 app image for spider
 - retrying==1.3.3
 - scrapy-redis==0.6.8
 - selenium==3.6.0
-- SQLAlchemy==1.2.12
+- SQLAlchemy>=1.3.0
 - scrapy-sentry==0.9.0
 - PyExecJS==1.5.1
